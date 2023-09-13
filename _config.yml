@@ -1,5 +1,5 @@
 title: Saketh Sarangu
-#logo: /assets/img/pic.png 
+logo: /assets/img/pic.png 
 description: A highly motivated data science professional
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
