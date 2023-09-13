@@ -1,5 +1,3 @@
-DATA SCIENCE PROFESSIONAL
-
 
 Education	
 
