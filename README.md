@@ -26,25 +26,30 @@ Technical Proficiencies
 Professional Experience
 
 Research Intern, Gannon-University, Erie  | 06/2022 – 05/2023
-•	Employed Tableau for data analysis and visualization on a dataset of 11,430 URLs with 87 features.
-•	Developed phishing detection system using Random Forest, XGBoost, MLP, Gaussian Naive Bayes.
-•	Achieved F1 scores of 0.83 and 0.96 on separate feature sets using train-test split.
 
-Data Analyst, Cedar Infotech, Hyderabad, India  | 01/2020 – 06/2021       
-•	Utilized SQL and data visualization to analyze and report client data requests.
-•	Created Data Visualization dashboards using Tableau.
-•	Validated data transformations and performed end-to-end data validation for ETL and BI systems.
-•	Developed test strategies, plans, and executed test cases for ETL and BI systems.
+Employed Tableau for data analysis and visualization on a dataset of 11,430 URLs with 87 features.
+Developed phishing detection system using Random Forest, XGBoost, MLP, Gaussian Naive Bayes.
+Achieved F1 scores of 0.83 and 0.96 on separate feature sets using train-test split.
+
+Data Analyst, Cedar Infotech, Hyderabad, India  | 01/2020 – 06/2021 
+
+Utilized SQL and data visualization to analyze and report client data requests.
+Created Data Visualization dashboards using Tableau.
+Validated data transformations and performed end-to-end data validation for ETL and BI systems.
+Developed test strategies, plans, and executed test cases for ETL and BI systems.
 
 Application Developer, SR Akshay Academy, Hyderabad, India  | 01/2019 – 12/2019 
-•	Developed a Predictive model to reduce student dropout rates, improving company revenue.
-•	Conducted data cleaning and exploratory analysis using Power BI and complex SQL queries.
-•	Created packages for Extract, Transform, Load (ETL) operations using SQL Server Integration Services (SSIS).
+
+Developed a Predictive model to reduce student dropout rates, improving company revenue.
+Conducted data cleaning and exploratory analysis using Power BI and complex SQL queries.
+Created packages for Extract, Transform, Load (ETL) operations using SQL Server Integration Services (SSIS).
 
 
 Data Science & Software Academic Projects
 
-Phishing Detection System with Advanced Machine Learning
+
+#Phishing Detection System with Advanced Machine Learning
+
 
 I have developed an advanced phishing detection system leveraging cutting-edge machine learning algorithms including Random Forest, XGBoost, Multi-Layer Perceptron, and Gaussian Naive Bayes. This system was designed to combat the ever-evolving threat landscape of online phishing attacks. It utilized a dataset comprising 11,430 URLs, each described by a rich set of 87 diverse features.
 My approach for phishing detection was comprehensive, integrating syntax-based, content-based, and external querying services to maximize accuracy. To ensure the most effective feature extraction, I harnessed the power of Tableau, a powerful data visualization tool. I also conducted extensive experiments with six different datasets, achieving outstanding accuracy rates of 87.7% and 86.6% using the Random Forest and XGBoost algorithms, respectively. These impressive results were obtained when utilizing a feature set consisting of 16 hybrid features.
@@ -55,7 +60,8 @@ The training model I designed incorporated not only traditional labeling but als
 My phishing detection system represents a significant advancement in online security. By combining state-of-the-art machine learning algorithms, a rich feature set, and innovative techniques for feature selection and extraction, I achieved remarkable accuracy rates. This project underscores my commitment to addressing real-world challenges with creative and effective solutions in the field of machine learning and cybersecurity.
 
 
-Decision and risk analysis of wildfires in California: Analyzed data to predict and minimize wildfire risks in real time scenarios.
+#Decision and risk analysis of wildfires in California: Analyzed data to predict and minimize wildfire risks in real time scenarios.
+
 
 The primary objective of this project was to develop a robust and data-driven system capable of predicting and mitigating wildfire risks in real-time scenarios within the California region. Wildfires in California pose significant threats to lives, property, and the environment. This project aimed to harness advanced data analytics and decision-making techniques to enhance wildfire risk management and response strategies.
 The project initiated with an extensive data analysis phase. We collected and curated diverse datasets, including historical wildfire records, weather patterns, vegetation indices, and geographical information. These datasets were meticulously cleaned and processed to ensure data quality.
@@ -74,7 +80,8 @@ I achieved a significant enhancement in wildfire risk prediction accuracy and re
 This project exemplifies my expertise in data analytics, machine learning, and risk assessment, and its application to critical real-world challenges. It underscores the potential for technology to make a substantial positive impact on disaster management and public safety.
 
 
-Language Translation Pipeline: Designed a translator using Deep Learning methods to translate French and English texts.
+#Language Translation Pipeline: Designed a translator using Deep Learning methods to translate French and English texts.
+
 
 In this project, I undertook the development of a sophisticated language translation pipeline, harnessing the power of deep learning techniques to facilitate seamless translation between French and English languages. This endeavor represents a culmination of cutting-edge natural language processing (NLP) methodologies and data-driven language modeling.
 
@@ -95,8 +102,8 @@ The architecture of the translation pipeline was designed with scalability in mi
 This Language Translation Pipeline project represents a significant achievement in the realm of deep learning and natural language processing. It demonstrates my proficiency in handling complex NLP tasks, model development, and user interface design. The practical applications of this technology are far-reaching, encompassing industries such as localization, content translation, and international communication.
 
 
+#Exploiting Race Condition Vulnerability in a Virtual Machine: Explored vulnerabilities in virtual machines using C programming and symbolic link techniques.
 
-Exploiting Race Condition Vulnerability in a Virtual Machine: Explored vulnerabilities in virtual machines using C programming and symbolic link techniques.
 
 In this technically intricate project, I embarked on a journey to delve deep into the world of virtual machines (VMs) to uncover vulnerabilities related to race conditions. Leveraging my expertise in C programming and symbolic link techniques, I conducted a comprehensive exploration of these vulnerabilities, shedding light on critical security concerns within virtualized environments.
 
@@ -111,7 +118,8 @@ To validate the presence of race condition vulnerabilities and their potential e
 It is important to note that all aspects of this project were conducted within a strictly ethical framework. My intent was solely to identify vulnerabilities, assess their impact, and propose countermeasures to strengthen the security of virtual machines.By delving into the intricate world of race condition vulnerabilities within virtual machines, this project not only highlights my expertise in low-level programming but also contributes to the broader field of cybersecurity. It underscores the need for continuous vigilance and proactive measures to safeguard virtualized environments against emerging threats.
 
 
-Dynamic Netflix Website Prototype with Genre-based Selection: Developed an interactive Netflix prototype using ReactJS and APIs for dynamic movie selection.
+#Dynamic Netflix Website Prototype with Genre-based Selection: Developed an interactive Netflix prototype using ReactJS and APIs for dynamic movie selection.
+
 
  I designed and implemented a highly dynamic and user-centric platform for selecting movies based on genre preferences. This project showcases my proficiency in front-end development, API integration, and user interface design.
 
