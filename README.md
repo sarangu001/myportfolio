@@ -41,7 +41,7 @@ Organized and managed cultural exchange events. Welcomed and assisted internatio
 Utilized emotional intelligence to address student concerns, acting as a reliable point of contact for their needs.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-Data Analyst, Cedar Infotech, Hyderabad, India  | 01/2020 – 06/2021 
+Data Analyst, Cedar Infotech, Hyderabad, India  | 01/2020 – 06/2021
 -----------------------------------------------------------------------------------------------------------------------------------------
 Utilized SQL and data visualization to analyze and report client data requests.
 Created Data Visualization dashboards using Tableau.
@@ -96,6 +96,7 @@ I achieved a significant enhancement in wildfire risk prediction accuracy and re
 This project exemplifies my expertise in data analytics, machine learning, and risk assessment, and its application to critical real-world challenges. It underscores the potential for technology to make a substantial positive impact on disaster management and public safety.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
 3.Language Translation Pipeline: Designed a translator using Deep Learning methods to translate French and English texts.
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![languagetranslation](https://github.com/sarangu001/myportfolio/assets/91167302/4dfc3825-b217-43e3-9422-41379b45a790)
@@ -121,6 +122,8 @@ The architecture of the translation pipeline was designed with scalability in mi
 This Language Translation Pipeline project represents a significant achievement in the realm of deep learning and natural language processing. It demonstrates my proficiency in handling complex NLP tasks, model development, and user interface design. The practical applications of this technology are far-reaching, encompassing industries such as localization, content translation, and international communication.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+
 4.Exploiting Race Condition Vulnerability in a Virtual Machine: Explored vulnerabilities in virtual machines using C programming and symbolic link techniques.
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![virtual](https://github.com/sarangu001/myportfolio/assets/91167302/195264d4-c16e-4d62-9f40-22722a1d863c)
@@ -139,6 +142,8 @@ To validate the presence of race condition vulnerabilities and their potential e
 It is important to note that all aspects of this project were conducted within a strictly ethical framework. My intent was solely to identify vulnerabilities, assess their impact, and propose countermeasures to strengthen the security of virtual machines.By delving into the intricate world of race condition vulnerabilities within virtual machines, this project not only highlights my expertise in low-level programming but also contributes to the broader field of cybersecurity. It underscores the need for continuous vigilance and proactive measures to safeguard virtualized environments against emerging threats.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+
 5.Dynamic Netflix Website Prototype with Genre-based Selection: Developed an interactive Netflix prototype using ReactJS and APIs for dynamic movie selection.
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![netflix](https://github.com/sarangu001/myportfolio/assets/91167302/14a0b745-0c16-4db5-82d5-f6227b1ce67e)
