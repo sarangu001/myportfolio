@@ -25,9 +25,9 @@ Technical Proficiencies:
  
 
 Professional Experience:
--------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 Research Intern, Gannon-University, Erie  | 06/2022 – 05/2023
---------------------------------------------------------------
+----------------------------------------------------------------
 Employed Tableau for data analysis and visualization on a dataset of 11,430 URLs with 87 features.
 Developed phishing detection system using Random Forest, XGBoost, MLP, Gaussian Naive Bayes.
 Achieved F1 scores of 0.83 and 0.96 on separate feature sets using train-test split.
