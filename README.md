@@ -32,6 +32,15 @@ Employed Tableau for data analysis and visualization on a dataset of 11,430 URLs
 Developed phishing detection system using Random Forest, XGBoost, MLP, Gaussian Naive Bayes.
 Achieved F1 scores of 0.83 and 0.96 on separate feature sets using train-test split.
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+Global Student Host, Gannon University, Erie  | 08/2022 – 01/2023
+-----------------------------------------------------------------------------------------------------------------------------------------
+Efficiently handled financial transactions and student accounts at Gannon University's Cashier’s Office, developing adeptness in CRM systems and enhancing data management and financial operation skills.
+Collaborated with university staff and faculty to optimize the student experience.
+Organized and managed cultural exchange events. Welcomed and assisted international students in their transition to Gannon University, fostering an inclusive environment.
+Utilized emotional intelligence to address student concerns, acting as a reliable point of contact for their needs.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 Data Analyst, Cedar Infotech, Hyderabad, India  | 01/2020 – 06/2021 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Utilized SQL and data visualization to analyze and report client data requests.
