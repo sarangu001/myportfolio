@@ -50,6 +50,8 @@ Data Science & Software Academic Projects
 
 #Phishing Detection System with Advanced Machine Learning
 
+![phishingdetection](https://github.com/sarangu001/myportfolio/assets/91167302/6a7eaadc-fd20-4189-bdbc-177187d7a1b6)
+
 
 
 
@@ -63,8 +65,8 @@ My phishing detection system represents a significant advancement in online secu
 
 
 #Decision and risk analysis of wildfires in California: Analyzed data to predict and minimize wildfire risks in real time scenarios.
+![wildfire](https://github.com/sarangu001/myportfolio/assets/91167302/47fbc1dd-ffb4-401d-a5bc-004676675520)
 
-logo: /assets/img/wildfire.png 
 
 The primary objective of this project was to develop a robust and data-driven system capable of predicting and mitigating wildfire risks in real-time scenarios within the California region. Wildfires in California pose significant threats to lives, property, and the environment. This project aimed to harness advanced data analytics and decision-making techniques to enhance wildfire risk management and response strategies.
 The project initiated with an extensive data analysis phase. We collected and curated diverse datasets, including historical wildfire records, weather patterns, vegetation indices, and geographical information. These datasets were meticulously cleaned and processed to ensure data quality.
@@ -84,6 +86,8 @@ This project exemplifies my expertise in data analytics, machine learning, and r
 
 
 #Language Translation Pipeline: Designed a translator using Deep Learning methods to translate French and English texts.
+
+![languagetranslation](https://github.com/sarangu001/myportfolio/assets/91167302/4dfc3825-b217-43e3-9422-41379b45a790)
 
 
 
@@ -108,6 +112,7 @@ This Language Translation Pipeline project represents a significant achievement 
 
 #Exploiting Race Condition Vulnerability in a Virtual Machine: Explored vulnerabilities in virtual machines using C programming and symbolic link techniques.
 
+![virtual](https://github.com/sarangu001/myportfolio/assets/91167302/195264d4-c16e-4d62-9f40-22722a1d863c)
 
 
 In this technically intricate project, I embarked on a journey to delve deep into the world of virtual machines (VMs) to uncover vulnerabilities related to race conditions. Leveraging my expertise in C programming and symbolic link techniques, I conducted a comprehensive exploration of these vulnerabilities, shedding light on critical security concerns within virtualized environments.
@@ -125,6 +130,7 @@ It is important to note that all aspects of this project were conducted within a
 
 #Dynamic Netflix Website Prototype with Genre-based Selection: Developed an interactive Netflix prototype using ReactJS and APIs for dynamic movie selection.
 
+![netflix](https://github.com/sarangu001/myportfolio/assets/91167302/14a0b745-0c16-4db5-82d5-f6227b1ce67e)
 
 
 
