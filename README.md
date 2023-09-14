@@ -16,17 +16,23 @@ BML Munjal University, Gurgaon, India
 Technical Proficiencies:
 -----------------------------------------------------------------------------------------------------------------------------------------
 
- Languages:	SQL | Python | Java | R | C++ | HTML | Perl | JavaScript | Shell Scripting | Spark | Scala
+ Languages:	
+ SQL | Python | Java | R | C++ | HTML | Perl | JavaScript | Shell Scripting | Spark | Scala
  
- Databases:	MySQL | Hive | MS SQL Server | Hadoop | Oracle | MongoDB | Azure Cosmos DB
+ Databases:	
+ MySQL | Hive | MS SQL Server | Hadoop | Oracle | MongoDB | Azure Cosmos DB
  
- Operating Systems	Windows | MacOS | Linux | UNIX
+ Operating Systems:
+ Windows | MacOS | Linux | UNIX
  
- ML Libraries:	TensorFlow | pandas | NumPy | Scikit learn | seaborn
+ ML Libraries:
+ TensorFlow | pandas | NumPy | Scikit learn | seaborn
  
- Cloud Computing:	Amazon Web Services (AWS) | RDS | S3 | EC2 | Snowflake | Microsoft Azure | Databricks 
+ Cloud Computing:
+ Amazon Web Services (AWS) | RDS | S3 | EC2 | Snowflake | Microsoft Azure | Databricks 
  
- Tools:	Git | Tableau | Weka | Jira | MS Office | Analytical Solver | RStudio | Jupyter Notebook | Power BI | Zeppelin | Visual Studio
+ Tools:
+ Git | Tableau | Weka | Jira | MS Office | Analytical Solver | RStudio | Jupyter Notebook | Power BI | Zeppelin | Visual Studio
  
 
 Professional Experience:
