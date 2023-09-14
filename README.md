@@ -64,6 +64,7 @@ My phishing detection system represents a significant advancement in online secu
 
 #Decision and risk analysis of wildfires in California: Analyzed data to predict and minimize wildfire risks in real time scenarios.
 
+/assets/img/wildfire.png 
 
 The primary objective of this project was to develop a robust and data-driven system capable of predicting and mitigating wildfire risks in real-time scenarios within the California region. Wildfires in California pose significant threats to lives, property, and the environment. This project aimed to harness advanced data analytics and decision-making techniques to enhance wildfire risk management and response strategies.
 The project initiated with an extensive data analysis phase. We collected and curated diverse datasets, including historical wildfire records, weather patterns, vegetation indices, and geographical information. These datasets were meticulously cleaned and processed to ensure data quality.
