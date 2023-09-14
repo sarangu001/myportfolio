@@ -25,7 +25,9 @@ Technical Proficiencies:
  
 
 Professional Experience:
-----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------
+
+
 Research Intern, Gannon-University, Erie  | 06/2022 – 05/2023
 ----------------------------------------------------------------
 Employed Tableau for data analysis and visualization on a dataset of 11,430 URLs with 87 features.
