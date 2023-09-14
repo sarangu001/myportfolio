@@ -6,11 +6,11 @@ Education :
 
 Master of Science in Data Science Engineering  
 Gannon University, Erie, Pennsylvania 	
-May 2023
+| May 2023
 
 Bachelor of Engineering in Electronics and Communication Engineering
 BML Munjal University, Gurgaon, India	
-May 2019
+| May 2019
 
 
 Technical Proficiencies:
