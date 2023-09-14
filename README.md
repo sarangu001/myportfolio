@@ -1,5 +1,5 @@
 A highly motivated data analyst with expertise in interpreting, analyzing and reconciliation of data obtained from a variety of sources.
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 Education	
 
 Master of Science in Data Science Engineering	May 2023
@@ -7,7 +7,7 @@ Gannon University, Erie, Pennsylvania
 
 Bachelor of Engineering in Electronics and Communication Engineering	May 2019
 BML Munjal University, Gurgaon, India	
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 Technical Proficiencies
 
  Languages:	SQL | Python | Java | R | C++ | HTML | Perl | JavaScript | Shell Scripting | Spark | Scala
@@ -22,7 +22,7 @@ Technical Proficiencies
  
  Tools:	Git | Tableau | Weka | Jira | MS Office | Analytical Solver | RStudio | Jupyter Notebook | Power BI | Zeppelin | Visual Studio
 	
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 Professional Experience
 
 Research Intern, Gannon-University, Erie  | 06/2022 – 05/2023
@@ -44,11 +44,11 @@ Developed a Predictive model to reduce student dropout rates, improving company 
 Conducted data cleaning and exploratory analysis using Power BI and complex SQL queries.
 Created packages for Extract, Transform, Load (ETL) operations using SQL Server Integration Services (SSIS).
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 Data Science & Software Academic Projects
 
 
-#Phishing Detection System with Advanced Machine Learning
+1.Phishing Detection System with Advanced Machine Learning
 
 ![phishingdetection](https://github.com/sarangu001/myportfolio/assets/91167302/6a7eaadc-fd20-4189-bdbc-177187d7a1b6)
 
@@ -64,7 +64,7 @@ The training model I designed incorporated not only traditional labeling but als
 My phishing detection system represents a significant advancement in online security. By combining state-of-the-art machine learning algorithms, a rich feature set, and innovative techniques for feature selection and extraction, I achieved remarkable accuracy rates. This project underscores my commitment to addressing real-world challenges with creative and effective solutions in the field of machine learning and cybersecurity.
 
 
-#Decision and risk analysis of wildfires in California: Analyzed data to predict and minimize wildfire risks in real time scenarios.
+2.Decision and risk analysis of wildfires in California: Analyzed data to predict and minimize wildfire risks in real time scenarios.
 ![wildfire](https://github.com/sarangu001/myportfolio/assets/91167302/47fbc1dd-ffb4-401d-a5bc-004676675520)
 
 
@@ -85,7 +85,7 @@ I achieved a significant enhancement in wildfire risk prediction accuracy and re
 This project exemplifies my expertise in data analytics, machine learning, and risk assessment, and its application to critical real-world challenges. It underscores the potential for technology to make a substantial positive impact on disaster management and public safety.
 
 
-#Language Translation Pipeline: Designed a translator using Deep Learning methods to translate French and English texts.
+3.Language Translation Pipeline: Designed a translator using Deep Learning methods to translate French and English texts.
 
 ![languagetranslation](https://github.com/sarangu001/myportfolio/assets/91167302/4dfc3825-b217-43e3-9422-41379b45a790)
 
@@ -110,7 +110,7 @@ The architecture of the translation pipeline was designed with scalability in mi
 This Language Translation Pipeline project represents a significant achievement in the realm of deep learning and natural language processing. It demonstrates my proficiency in handling complex NLP tasks, model development, and user interface design. The practical applications of this technology are far-reaching, encompassing industries such as localization, content translation, and international communication.
 
 
-#Exploiting Race Condition Vulnerability in a Virtual Machine: Explored vulnerabilities in virtual machines using C programming and symbolic link techniques.
+4.Exploiting Race Condition Vulnerability in a Virtual Machine: Explored vulnerabilities in virtual machines using C programming and symbolic link techniques.
 
 ![virtual](https://github.com/sarangu001/myportfolio/assets/91167302/195264d4-c16e-4d62-9f40-22722a1d863c)
 
@@ -128,7 +128,7 @@ To validate the presence of race condition vulnerabilities and their potential e
 It is important to note that all aspects of this project were conducted within a strictly ethical framework. My intent was solely to identify vulnerabilities, assess their impact, and propose countermeasures to strengthen the security of virtual machines.By delving into the intricate world of race condition vulnerabilities within virtual machines, this project not only highlights my expertise in low-level programming but also contributes to the broader field of cybersecurity. It underscores the need for continuous vigilance and proactive measures to safeguard virtualized environments against emerging threats.
 
 
-#Dynamic Netflix Website Prototype with Genre-based Selection: Developed an interactive Netflix prototype using ReactJS and APIs for dynamic movie selection.
+5.Dynamic Netflix Website Prototype with Genre-based Selection: Developed an interactive Netflix prototype using ReactJS and APIs for dynamic movie selection.
 
 ![netflix](https://github.com/sarangu001/myportfolio/assets/91167302/14a0b745-0c16-4db5-82d5-f6227b1ce67e)
 
