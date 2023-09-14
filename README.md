@@ -1,4 +1,4 @@
-A highly motivated data analyst with expertise in interpreting, analyzing and reconciliation of data obtained from a variety of sources.
+A highly motivated data science professional with expertise in interpreting, analyzing and reconciliation of data obtained from a variety of sources.
 -----------------------------------------------------------------------------------------------------------------------------------------
 Education	:
 -----------------------------------------------------------------------------------------------------------------------------------------
