@@ -1,6 +1,6 @@
 A highly motivated data science professional with expertise in interpreting, analyzing and reconciliation of data obtained from a variety of sources.
 -----------------------------------------------------------------------------------------------------------------------------------------
-Education	:
+Education :
 -----------------------------------------------------------------------------------------------------------------------------------------
 Master of Science in Data Science Engineering	May 2023
 Gannon University, Erie, Pennsylvania	
