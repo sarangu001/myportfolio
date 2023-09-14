@@ -1,22 +1,30 @@
 A highly motivated data analyst with expertise in interpreting, analyzing and reconciliation of data obtained from a variety of sources.
 -----------------------------------------------------------------------------------------------------------------------------------------
-Education	
+Education	:
 -----------------------------------------------------------------------------------------------------------------------------------------
 Master of Science in Data Science Engineering	May 2023
 Gannon University, Erie, Pennsylvania	
+
 Bachelor of Engineering in Electronics and Communication Engineering	May 2019
 BML Munjal University, Gurgaon, India	
+
 ----------------------------------------------------------------------------------------------------------------------------------------
-Technical Proficiencies
+Technical Proficiencies:
 ----------------------------------------------------------------------------------------------------------------------------------------
  Languages:	SQL | Python | Java | R | C++ | HTML | Perl | JavaScript | Shell Scripting | Spark | Scala
+ 
  Databases:	MySQL | Hive | MS SQL Server | Hadoop | Oracle | MongoDB | Azure Cosmos DB
+ 
  Operating Systems	Windows | MacOS | Linux | UNIX
+ 
  ML Libraries:	TensorFlow | pandas | NumPy | Scikit learn | seaborn
+ 
  Cloud Computing:	Amazon Web Services (AWS) | RDS | S3 | EC2 | Snowflake | Microsoft Azure | Databricks 
+ 
  Tools:	Git | Tableau | Weka | Jira | MS Office | Analytical Solver | RStudio | Jupyter Notebook | Power BI | Zeppelin | Visual Studio
+ 
 -----------------------------------------------------------------------------------------------------------------------------------------
-Professional Experience
+Professional Experience:
 ----------------------------------------------------------------------------------------------------------------------------------------
 Research Intern, Gannon-University, Erie  | 06/2022 – 05/2023
 ---------------------------------------------------------------------------------------------------------------------------------------
