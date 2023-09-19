@@ -67,6 +67,12 @@ Developed a Predictive model to reduce student dropout rates, improving company 
 Conducted data cleaning and exploratory analysis using Power BI and complex SQL queries.
 Created packages for Extract, Transform, Load (ETL) operations using SQL Server Integration Services (SSIS).
 
+Machine Learning Intern, Byjus,Delhi, India  | 08/2018 – 12/2018 
+-----------------------------------------------------------------
+Utilized Spark, Scala, Hadoop, HQL. VQL, oozie, AWS, Python, Mmlib, CUDA, Kafka, Kinesis, Spark Streaming, Edward, Cassandra, HBase, Data Lake, TensorFlow, Redshift, MongoDB including classifications, regressions, dimensionally reduction to increase user lifetime by 45% and triple user conversations.	Analyzed data from Google Analytics, Ad Words. Evaluated models by using Cross Validation, Log loss function.
+
+
+
 
 Data Science & Software Academic Projects
 ------------------------------------------
