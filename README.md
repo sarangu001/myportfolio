@@ -75,16 +75,14 @@ Data Science & Software Academic Projects
 ----------------------------------------------------------
 ![phishingdetection](https://github.com/sarangu001/myportfolio/assets/91167302/6a7eaadc-fd20-4189-bdbc-177187d7a1b6)
 
+I developed an advanced phishing detection system using cutting-edge machine learning algorithms like Random Forest, XGBoost, Multi-Layer Perceptron, and Gaussian Naive Bayes. It analyzed 11,430 URLs with 87 diverse features, combining syntax-based, content-based, and external querying services. Feature extraction was optimized with Tableau data visualization.
+
+Through experiments with six datasets, I achieved exceptional accuracy rates of 87.7% (Random Forest) and 86.6% (XGBoost) using a 16-feature hybrid set. Mathematical analysis with 3D features effectively separated phishing from legitimate URLs. The full 87-feature dataset and a 49-feature syntax-based set performed best.
+
+Unconventionally, I used phishing and legitimate URL counts as labels during training, enhancing detection accuracy. My system represents a significant advancement in online security, demonstrating my commitment to addressing real-world challenges in machine learning and cybersecurity.
 
 
 
-I have developed an advanced phishing detection system leveraging cutting-edge machine learning algorithms including Random Forest, XGBoost, Multi-Layer Perceptron, and Gaussian Naive Bayes. This system was designed to combat the ever-evolving threat landscape of online phishing attacks. It utilized a dataset comprising 11,430 URLs, each described by a rich set of 87 diverse features.
-My approach for phishing detection was comprehensive, integrating syntax-based, content-based, and external querying services to maximize accuracy. To ensure the most effective feature extraction, I harnessed the power of Tableau, a powerful data visualization tool. I also conducted extensive experiments with six different datasets, achieving outstanding accuracy rates of 87.7% and 86.6% using the Random Forest and XGBoost algorithms, respectively. These impressive results were obtained when utilizing a feature set consisting of 16 hybrid features.
-One of the unique aspects of this project involved the use of mathematical analysis with 3-dimensional features to effectively distinguish phishing URLs from legitimate ones. Among the various datasets tested, the dataset containing all 87 features achieved the highest accuracy and AUC-ROC score. Notably, a dataset with 49 syntax-based features also yielded strong results. Interestingly, content-based features exhibited lower accuracy compared to other feature sets. However, feature selection emerged as a critical factor in model performance. A hybrid dataset containing just six selected features demonstrated performance on par with the one featuring all 87 features.
-
-The training model I designed incorporated not only traditional labeling but also phishing and legitimate URL counts as labels. This unconventional approach proved to be highly effective in enhancing the system's ability to discern phishing attempts from legitimate URLs. The use of 3-dimensional features further pushed the boundaries of detection accuracy.
-
-My phishing detection system represents a significant advancement in online security. By combining state-of-the-art machine learning algorithms, a rich feature set, and innovative techniques for feature selection and extraction, I achieved remarkable accuracy rates. This project underscores my commitment to addressing real-world challenges with creative and effective solutions in the field of machine learning and cybersecurity.
 
 
 2.Decision and risk analysis of wildfires in California: Analyzed data to predict and minimize wildfire risks in real time scenarios.
@@ -92,21 +90,25 @@ My phishing detection system represents a significant advancement in online secu
 ![wildfire](https://github.com/sarangu001/myportfolio/assets/91167302/47fbc1dd-ffb4-401d-a5bc-004676675520)
 
 
-The primary objective of this project was to develop a robust and data-driven system capable of predicting and mitigating wildfire risks in real-time scenarios within the California region. Wildfires in California pose significant threats to lives, property, and the environment. This project aimed to harness advanced data analytics and decision-making techniques to enhance wildfire risk management and response strategies.
-The project initiated with an extensive data analysis phase. We collected and curated diverse datasets, including historical wildfire records, weather patterns, vegetation indices, and geographical information. These datasets were meticulously cleaned and processed to ensure data quality.
+The main goal of this project was to create an advanced system for predicting and managing wildfire risks in real-time in California. Wildfires in the region are a major threat to people, property, and the environment. Our approach involved using data analysis and machine learning to improve wildfire risk management.
 
-We employed a range of machine learning models, such as Random Forest, Support Vector Machines, and Gradient Boosting, to build predictive models for wildfire risk. These models were trained on historical data to capture complex relationships between various factors contributing to wildfires.
-One of the key technical achievements of this project was the development of real-time prediction capabilities. We integrated live data streams from weather stations, satellite imagery, and ground sensors into our models, enabling us to provide up-to-the-minute wildfire risk assessments. This feature was critical for timely decision-making by relevant authorities.
+We began by gathering and cleaning various datasets, including historical wildfire data, weather information, vegetation data, and geographical details. These datasets formed the basis for our predictive models.
 
-In addition to predicting wildfire risks, we also designed risk mitigation strategies. By utilizing advanced optimization techniques, we developed dynamic evacuation plans and resource allocation strategies. These plans considered factors like population density, road networks, and fire progression models to ensure the most effective response in high-risk areas.
+We used machine learning models like Random Forest, Support Vector Machines, and Gradient Boosting to build these models. They were trained on historical data to understand the complex factors that contribute to wildfires.
 
-Given the inherent uncertainty in wildfire behavior, we conducted comprehensive uncertainty analysis. Monte Carlo simulations and sensitivity analyses were employed to assess the robustness of our predictions and evaluate the impact of various input parameters on the outcomes.
+A key achievement was our ability to incorporate real-time data from sources like weather stations, satellites, and ground sensors into our models. This allowed us to provide minute-by-minute wildfire risk assessments, aiding timely decision-making.
 
-To aid decision-makers, we created geospatial visualizations using Geographic Information System (GIS) tools. These visualizations provided a clear and actionable representation of wildfire risks, allowing for better resource allocation and evacuation planning.
+We didn't just predict wildfire risks; we also designed strategies to mitigate them. We used advanced optimization techniques to create evacuation plans and allocate resources effectively, considering factors like population density and road networks.
 
-I achieved a significant enhancement in wildfire risk prediction accuracy and real-time monitoring capabilities. The system has been tested and validated using historical wildfire events and has shown promising results in real-world scenarios. By providing timely and data-driven insights, it equips emergency responders and policymakers with valuable tools to mitigate the devastating impact of wildfires in California.
+Given the uncertainty in wildfire behavior, we conducted extensive uncertainty analysis using Monte Carlo simulations and sensitivity analyses to test our predictions' robustness.
 
-This project exemplifies my expertise in data analytics, machine learning, and risk assessment, and its application to critical real-world challenges. It underscores the potential for technology to make a substantial positive impact on disaster management and public safety.
+To assist decision-makers, we generated geospatial visualizations using Geographic Information System (GIS) tools. These visualizations offered clear representations of wildfire risks for better resource allocation and evacuation planning.
+
+Our system significantly improved wildfire risk prediction accuracy and real-time monitoring. It has been tested with historical events and performed well in real-world scenarios. This project demonstrates how data analytics, machine learning, and risk assessment can address critical challenges, especially in disaster management and public safety.
+
+
+
+
 
 
 
