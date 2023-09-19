@@ -87,7 +87,7 @@ Through experiments with six datasets, I achieved exceptional accuracy rates of 
 
 Unconventionally, I used phishing and legitimate URL counts as labels during training, enhancing detection accuracy. My system represents a significant advancement in online security, demonstrating my commitment to addressing real-world challenges in machine learning and cybersecurity.
 
-
+Link : https://github.com/sarangu001/code
 
 
 
