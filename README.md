@@ -196,5 +196,29 @@ This project underscores my commitment to creating user-centric web applications
 
 
 
+6.Analysis on countrywide accidents using python
+-----------------------------------------------------------------------------------------------------------------------------------------
+![road accident](https://github.com/sarangu001/myportfolio/assets/91167302/8663d6e7-ae0e-431d-8cdf-2c5eb37e94f5)
+
+
+
+
+I conducted a thorough examination of accident data gathered from all 50 states in the United States. This comprehensive analysis comprised several vital stages, including meticulous data cleaning to ensure the dataset's quality and reliability.
+I delved into exploratory data analysis (EDA) to gain valuable insights, using summary statistics and data visualization techniques like histograms, box plots, scatter plots, and correlation matrices to unveil patterns and trends within the dataset. My data visualization efforts encompassed creating geographic heatmaps, time series plots, and various charts, such as bar charts and pie charts, to vividly represent accident-related information.
+I applied regression analysis techniques, including linear and polynomial regression, alongside feature selection methodologies to uncover relationships between variables. I also employed classification analysis, using logistic regression and decision trees to categorize accidents and predict outcomes, with rigorous model evaluation employing accuracy, precision, recall, and F1-score metrics. Finally, the project culminated in summarizing key findings, identifying contributing factors to accidents, and proposing potential accident prevention strategies.I utilized Python as the primary programming language, capitalizing on libraries and frameworks like Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and Folium for geographic visualizations, exemplifying my proficiency in data analysis and machine learning to derive actionable insights from real-world datasets.
+
+
+
+7.Amazon Annual Sales Profit Prediction:
+-----------------------------------------------------------------------------------------------------------------------------------------
+![amazon](https://github.com/sarangu001/myportfolio/assets/91167302/5425abd5-ab82-4121-93fa-cf744680af11)
+
+
+
+I conducted a comprehensive analysis of Amazon customer data using Tableau, implementing advanced data analysis techniques. This involved k-means clustering to segment customers based on purchasing behavior, time series analysis for sales and profit forecasting, and regression models to assess performance drivers. The project also entailed meticulous data collection, cleaning, and preparation to ensure data quality. I further developed a user-friendly Tableau dashboard to facilitate data exploration and decision-making. Emphasis on data integrity assurance ensured the accuracy and reliability of the analysis. By using Tableau and Python, I delivered actionable insights from the data, showcasing my expertise in data analysis, machine learning, and data visualization for informed business decisions.
+
+
+
+
 
 
