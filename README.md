@@ -56,14 +56,14 @@ Utilized emotional intelligence to address student concerns, acting as a reliabl
 
 Data Analyst, Cedar Infotech, Hyderabad, India  | 01/2020 – 06/2021
 -------------------------------------------------------------------
-Utilized SQL and data visualization to analyze and report client data requests.
+Utilized SQL and data visualization to analyze and report client data requests.Utilized Databricks MLflow for streamlined machine learning experiment management, model tracking, and deployment, leveraging AWS's scalable, secure Amazon S3 storage for efficient data storage, including backups, user files, and logs. 
 Created Data Visualization dashboards using Tableau.
 Validated data transformations and performed end-to-end data validation for ETL and BI systems.
 Developed test strategies, plans, and executed test cases for ETL and BI systems.
 
 Application Developer, SR Akshay Academy, Hyderabad, India  | 01/2019 – 12/2019 
 -------------------------------------------------------------------------------
-Developed a Predictive model to reduce student dropout rates, improving company revenue.
+Developed a Predictive model to reduce student dropout rates, improving company revenue.	Utilized PySpark, PyTorch for data transformation and developed a recommendation system 
 Conducted data cleaning and exploratory analysis using Power BI and complex SQL queries.
 Created packages for Extract, Transform, Load (ETL) operations using SQL Server Integration Services (SSIS).
 
