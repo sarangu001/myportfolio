@@ -218,6 +218,21 @@ I applied regression analysis techniques, including linear and polynomial regres
 I conducted a comprehensive analysis of Amazon customer data using Tableau, implementing advanced data analysis techniques. This involved k-means clustering to segment customers based on purchasing behavior, time series analysis for sales and profit forecasting, and regression models to assess performance drivers. The project also entailed meticulous data collection, cleaning, and preparation to ensure data quality. I further developed a user-friendly Tableau dashboard to facilitate data exploration and decision-making. Emphasis on data integrity assurance ensured the accuracy and reliability of the analysis. By using Tableau and Python, I delivered actionable insights from the data, showcasing my expertise in data analysis, machine learning, and data visualization for informed business decisions.
 
 
+8.Data Augmentation with Kornia
+-----------------------------------------------------------------------------------------------------------------------------------------
+![kornia](https://github.com/sarangu001/myportfolio/assets/91167302/d693937c-11de-41c9-85de-f6349470499a)
+
+
+
+
+
+In a significant project within my journey through computer vision and deep learning, I delved into the world of data augmentation using Kornia, an open-source library built upon the PyTorch framework. This project served as a platform to showcase my expertise in the domain of computer vision while employing powerful open-source tools. At its core, the project aimed to highlight the critical role of data augmentation in enhancing the performance of deep learning models, particularly in computer vision applications. The project's main components included a versatile data augmentation pipeline that facilitated experimentation with various techniques, visualizations to gain insights into image transformations, and color manipulation capabilities in different color spaces. Additionally, we conducted performance tests to ensure the efficiency of our data augmentation methods for large-scale projects. Beyond its practical applications, the project also served as an educational resource, shedding light on the significance of data augmentation in computer vision. Utilizing technologies such as Python, PyTorch, Kornia, NumPy, and Matplotlib for visualization, the project's code is publicly accessible on GitHub, and we offered a live demonstration for users to interact with and observe the impact of diverse augmentation techniques on sample images. Overall, this project not only honed my computer vision skills but also demonstrated my ability to harness Kornia effectively in the realm of deep learning, showcasing a commitment to innovative solutions in the field.
+
+
+
+
+
+
 
 
 
