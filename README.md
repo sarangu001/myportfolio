@@ -240,6 +240,15 @@ Highlighting the integration aspect, I emphasized the significance of Dlib-ml as
 
 
 
+10.RobotKube - Orchestrating Large-Scale Multi-Robot Systems
+-----------------------------------------------------------------------------------------------------------------------------------------
+![kubernet](https://github.com/sarangu001/myportfolio/assets/91167302/e5335017-e814-4db6-920a-975da9ae5b38)
+
+
+
+During my project involvement with RobotKube, I had the privilege of contributing to an innovative initiative aimed at orchestrating large-scale cooperative multi-robot systems using Kubernetes and ROS. In this role, I played a vital part in developing and implementing key components of RobotKube, including the event detector and application manager. These components automated the orchestration and management of containerized microservices in a dynamic cyber-physical system, specifically in the context of Cooperative Intelligent Transport Systems (C-ITS). Our work showcased the potential of RobotKube through a practical use case involving cloud-based operator applications. This use case demonstrated how RobotKube could dynamically deploy software, enabling vehicles to share sensor data in real-time with the cloud, facilitating data-driven development and collective learning. This project was a remarkable opportunity to delve into cutting-edge technologies, refine my software development skills, and explore the intricacies of orchestrating complex systems.
+
+
 
 
 
