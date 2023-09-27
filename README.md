@@ -61,7 +61,7 @@ Created Data Visualization dashboards using Tableau.
 Validated data transformations and performed end-to-end data validation for ETL and BI systems.
 Developed test strategies, plans, and executed test cases for ETL and BI systems.
 
-Application Developer, SR Akshay Academy, Hyderabad, India  | 01/2019 – 12/2019 
+Data Analyst, SR Akshay Academy, Hyderabad, India  | 01/2019 – 12/2019 
 -------------------------------------------------------------------------------
 Developed a Predictive model to reduce student dropout rates, improving company revenue.	Utilized PySpark, PyTorch for data transformation and developed a recommendation system 
 Conducted data cleaning and exploratory analysis using Power BI and complex SQL queries.
