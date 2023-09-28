@@ -20,7 +20,7 @@ Technical Proficiencies:
  SQL | Python | Java | R | C++ | HTML | Perl | JavaScript | Shell Scripting | Spark | Scala
  
  Databases:	
- MySQL | Hive | MS SQL Server | Hadoop | Oracle | MongoDB | Azure Cosmos DB
+ MySQL | Hive | MS SQL Server | Hadoop | Oracle | MongoDB | Azure Cosmos DB | HBase | AWS Redshift | 
  
  Operating Systems:
  Windows | MacOS | Linux | UNIX
@@ -32,7 +32,9 @@ Technical Proficiencies:
  Amazon Web Services (AWS) | RDS | S3 | EC2 | Snowflake | Microsoft Azure | Databricks 
  
  Tools:
- Git | Tableau | Weka | Jira | MS Office | Analytical Solver | RStudio | Jupyter Notebook | Power BI | Zeppelin | Visual Studio
+ MS Excel | SQL Server Reporting Services(SSRS) | SQL Server Integration Services (SSIS) | 
+ SQL Server Analysis Services (SSAS) | React JS | Git | Tableau | Weka | Jira | MS Office | 
+ Analytical Solver | RStudio | Jupyter Notebook | Power BI | Zeppelin | Visual Studio
  
 
 Professional Experience:
@@ -56,20 +58,19 @@ Utilized emotional intelligence to address student concerns, acting as a reliabl
 
 Data Analyst, Cedar Infotech, Hyderabad, India  | 01/2020 – 06/2021
 -------------------------------------------------------------------
-Utilized SQL and data visualization to analyze and report client data requests.Utilized Databricks MLflow for streamlined machine learning experiment management, model tracking, and deployment, leveraging AWS's scalable, secure Amazon S3 storage for efficient data storage, including backups, user files, and logs. 
-Created Data Visualization dashboards using Tableau.
-Validated data transformations and performed end-to-end data validation for ETL and BI systems.
-Developed test strategies, plans, and executed test cases for ETL and BI systems.
+Utilized SQL and data visualization to analyze and report client data requests.Utilized Databricks MLflow for streamlined machine learning experiment management, model tracking, and deployment, leveraging AWS's scalable, secure Amazon S3 storage for efficient data storage, including backups, user files, and logs. Developed complex SQL queries to extract, transform, and analyze data from large-scale relational databases, optimizing query performance for improved data retrieval speed.Designed and maintained database schemas, ensuring efficient data storage, retrieval, and integrity. Implemented database indexing strategies and query optimization techniques to enhance overall system performance.Created interactive and visually appealing reports using SQL Server Reporting Services (SSRS), providing actionable insights to stakeholdersUtilized SQL Server Integration Services (SSIS) to automate data extraction, transformation, and loading (ETL) processes, reducing manual intervention and improving data accuracy.Developed multidimensional data models with SQL Server Analysis Services (SSAS), enabling users to explore data using various dimensions and hierarchies.Proficient in advanced Excel functions and data analysis tools, including pivot tables, VLOOKUP, and macros, to deliver comprehensive reports.Created Data Visualization dashboards using Tableau.Validated data transformations and performed end-to-end data validation for ETL and BI systems.Developed test strategies, plans, and executed test cases for ETL and BI systems.
+
 
 Data Analyst, SR Akshay Academy, Hyderabad, India  | 01/2019 – 12/2019 
 -------------------------------------------------------------------------------
-Developed a Predictive model to reduce student dropout rates, improving company revenue.	Utilized PySpark, PyTorch for data transformation and developed a recommendation system 
-Conducted data cleaning and exploratory analysis using Power BI and complex SQL queries.
-Created packages for Extract, Transform, Load (ETL) operations using SQL Server Integration Services (SSIS).
+Developed a Predictive model to reduce student dropout rates, improving company revenue.	Utilized PySpark, PyTorch for data transformation and developed a recommendation system Conducted data cleaning and exploratory analysis using Power BI and complex SQL queries.Created packages for Extract, Transform, Load (ETL) operations using SQL Server Integration Services (SSIS).Designed and implemented interactive dashboards in Tableau and Power BI, enabling real-time data exploration and visualization. Integrated multiple data sources into BI tools, ensuring data consistency and accuracy across reports.Collaborated with cross-functional teams to translate business requirements into effective data visualizations and reports. Employed data modeling concepts to create logical and physical data models, facilitating a better understanding of data structures and relationships.Collaborated with database administrators to optimize database design, ensuring scalability and performance. Implemented data quality checks and cleansing processes to identify and rectify inconsistencies and errors in datasets, improving data accuracy.Established data quality methodologies and best practices, contributing to a culture of data governance within the organization. Converting Ad Hoc Requirements to Report Design.Demonstrated the ability to translate vague ad hoc data requests into well-structured and meaningful reports, meeting business objectives.Utilized Python libraries such as Pandas and NumPy to clean and preprocess data, handling missing values, outliers, and data transformations. Automated data cleaning tasks, reducing manual effort and increasing data processing efficiency.
+
 
 Machine Learning Intern, Byjus,Delhi, India  | 08/2018 – 12/2018 
 -----------------------------------------------------------------
-Utilized Spark, Scala, Hadoop, HQL. VQL, oozie, AWS, Python, Mmlib, CUDA, Kafka, Kinesis, Spark Streaming, Edward, Cassandra, HBase, Data Lake, TensorFlow, Redshift, MongoDB including classifications, regressions, dimensionally reduction to increase user lifetime by 45% and triple user conversations.	Analyzed data from Google Analytics, Ad Words. Evaluated models by using Cross Validation, Log loss function.
+Utilized Spark, Scala, Hadoop, HQL. VQL, oozie, AWS, Python, Mmlib, CUDA, Kafka, Kinesis, Spark Streaming, Edward, Cassandra, HBase, Data Lake, TensorFlow, Redshift, MongoDB including classifications, regressions, dimensionally reduction to increase user lifetime by 45% and triple user conversations.	Analyzed data from Google Analytics, Ad Words. Evaluated models by using Cross Validation, Log loss function.Maintained clear documentation of report requirements and design decisions for future reference.
+
+
 
 
 
